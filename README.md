@@ -3,8 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=roshannaik07&label=Profile%20views&color=0e75b6&style=flat" alt="roshannaik07" /> </p>
 
-<h3 align="left">:
-
+<h5 align="left">
 👨‍💻 I work as a Java full stack developer, comfortable with both backend logic and frontend basics.
 
 🌱 These days, I’m learning more about the Spring framework — slowly connecting the dots between the concepts and actual project work.
@@ -12,8 +11,7 @@
 💡 Still learning the ins and outs of web app development, but always open to sharing what I know and learning from others too.
 
 🎨 I started out as an artist, now writing code — still creating things, just with a different set of tools.
-
-</h3>
+</h5>
 
 ### 📫 How to reach me:
 **roshannaik202055@gmail.com**
