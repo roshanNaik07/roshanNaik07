@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Roshan Naik</h1>
-<h3 align="center">Full-Stack Java Developer | Building Scalable Web Applications with Java, Spring & Modern Web Tech</h3>
+<h3 align="center">Full-Stack Java Developer | Building Web Applications with Java, Spring & Modern Web Tech</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=roshannaik07&label=Profile%20views&color=0e75b6&style=flat" alt="roshannaik07" /> </p>
 
